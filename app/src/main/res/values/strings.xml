@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Iliad</string>
+    <string name="error_NoInternet">Se non mi dai il permesso di accedere a internet come faccio a loggarmi alla tua area personale Iliad?</string>
+</resources>
